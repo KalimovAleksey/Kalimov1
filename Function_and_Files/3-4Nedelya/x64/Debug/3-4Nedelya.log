@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (3-4Nedelya.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  dzAip.cpp
+  3-4Nedelya.vcxproj -> C:\Users\LemKa\source\repos\3-4Nedelya\x64\Debug\dzAiP.exe
